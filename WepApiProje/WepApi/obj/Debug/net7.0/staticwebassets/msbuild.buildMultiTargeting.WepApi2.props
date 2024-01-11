@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WepApi2.props" />
+</Project>
